@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+    margin-top: 0;
+    font-family: 'Dancing Script', cursive;
+    color: #1eae98;
+    font-size: 4em;
+}
+.paragraph {
+  font-size: 2em;
+  color: #1eae98;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #1eae98;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #1eae98;
+}
+.top-container {
+  background-color: #e4efe7;
+  padding-top: 250px;
+  position: relative;
+}
+.middle-container {
+}
+.bottom-container {
+  margin-bottom: 19.2px;
+}
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+.bottom-cloud {
+  position: absolute;
+  top: 200px;
+  left: 300px;
+}
+.web {
+  height: 256px;
+  width: 256px;
+}
+.messageme {
+    font-size: .8em;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    background: #45b29a;
+    padding: .75em 2em .75em 3.5em;
+    color: #1b7f69;
+    text-decoration: none;
+    margin: 1.5em 0 0;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    font-weight: 400;
+    border: 0;
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    text-transform: uppercase;
+}
+.email {
+    position: absolute;
+    height: 15px;
+    width: 24px;
+    left: 11%;
+    top: 30%;
+    background-image: url(https://fiand1996.github.io/assets/img/content/home/contact/mail.png);
+}
